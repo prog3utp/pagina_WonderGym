@@ -3271,12 +3271,12 @@ ol {
   .form-register {
 	width: 400px;
 	background: #24303c;
-	padding: 30px;
+	padding: 40px;
 	margin: auto;
 	margin-top: 100px;
 	border-radius: 4px;
 	font-family: 'calibri';
-	color: white;
+	color: rgb(14, 13, 13);
 	box-shadow: 7px 13px 37px #000;
   }
   
